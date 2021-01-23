@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  tigera-operator:
+  - apiVersion: v2
+    appVersion: v3.17.1-353b7efb8
+    created: "2021-01-22T18:46:08.735963Z"
+    description: Installs the Tigera operator for Calico
+    digest: 00c9f2f5812e9c29f0d950a64bed3df4d5b59772e7585deb046261eb828e9961
+    home: https://github.com/noteable-io/calico/tree/master/_includes/charts/tigera-operator
+    icon: https://noteable.io/wp-content/uploads/2020/06/n_icon_470x470_inverse.png
+    name: tigera-operator
+    type: application
+    urls:
+    - https://github.com/noteable-io/calico/releases/download/tigera-operator-3.17.0-chart/tigera-operator-3.17.1.tgz
+    version: 3.17.1
+generated: "2021-01-22T17:06:29.807411456Z"
